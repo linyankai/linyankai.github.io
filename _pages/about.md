@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
-  <h2 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">Publications</h2>
+  <h1 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">Publications</h1>
 </div>
 <h3>LLM-based Agents</h3>
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
@@ -18,7 +18,8 @@ redirect_from:
     <a href="https://openreview.net/forum?id=Y30OdoD11p" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</a><br>
     Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, <strong>Yankai Lin</strong>, et al.<br>
     The 12th International Conference on Learning Representations (<strong>ICLR</strong>), 2024<br>
-    <span style="color: #a02020; font-weight: bold;">Spotlight, Google Scholar Citations: 1,332, Selected as a Paper Digest Most Influential ICLR 2024 Paper</span>
+    <span style="color: #a02020; font-weight: bold;">Spotlight, Google Scholar Citations: 1,332</span>
+    <span style="color: #0c5c14; font-weight: bold;">Paper Digest Most Influential ICLR 2024 Paper</span>
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://arxiv.org/abs/2406.11317" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">GUICourse: From General Vision Language Model to Versatile GUI Agent</a><br>
@@ -62,13 +63,17 @@ redirect_from:
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/9491" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Learning Entity and Relation Embeddings for Knowledge Graph Completion</a><br>
     <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu<br>
     The 29th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015<br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 5,322, Ranked 1st in Paper Digest Most Influential AAAI 2015 Papers</span>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 5,322</span>
+    <span style="color: #0c5c14; font-weight: bold;">Ranked 1st in Paper Digest Most Influential AAAI 2015 Papers</span>
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://aclanthology.org/P16-1200/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Neural Relation Extraction with Selective Attention over Instances</a><br>
     <strong>Yankai Lin</strong>, Shiqi Shen, Zhiyuan Liu, Maosong Sun<br>
     The 54th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2016<br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316, Selected as a Paper Digest Most Influential ACL 2016 Paper</span>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316</span>
+    <span style="color: #0c5c14; font-weight: bold;">Paper Digest Most Influential ICLR 2024 Paper</span>
+
+    
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://aclanthology.org/D15-1082/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Modeling Relation Paths for Representation Learning of Knowledge Bases</a><br>
@@ -82,7 +87,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
-  <h2 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">CV</h2>
+  <h1 id="CV" style="margin: 0; border-bottom: none; padding-bottom: 0;">CV</h2>
 </div>
 
 
@@ -113,3 +118,47 @@ redirect_from:
     B.S., Computer Science and Technology, Tsinghua University, Beijing.
   </li>
 </ul>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
+  <h1 id="Group" style="margin: 0; border-bottom: none; padding-bottom: 0;">Group</h2>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
+    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+      <li>Wentong Chen</li>
+      <li>Yiju Guo</li>
+      <li>Wenkai Yang</li>
+      <li>Zhiyuan Chen</li>
+      <li>Shengda Fan</li>
+      <li>Yupeng Huo</li>
+      <li>Guirong Chen</li>
+      <li>Shengda Fan</li>
+      <li>Songhao Wu</li>
+      <li>Shenzhi Yang</li>
+      <li>Shuqi Ye</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Master Students</h3>
+    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+      <li>Kaiyi Zhang</li>
+      <li>Juntian Zhang</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Undergraduate</h3>
+    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+      <li>Jingwen Chen</li>
+      <li>Mingye Li</li>
+      <li>Xuyan Ye</li>
+    </ul>
+  </div>
+
+</div>
