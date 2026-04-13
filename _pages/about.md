@@ -158,6 +158,38 @@ redirect_from:
   </li>
 </ul>
 
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <i class="fas fa-trophy" style="color: #7a5ba6; font-size: 1.5em; margin-right: 12px;"></i>
+  <h2 id="awards" style="margin: 0; border-bottom: none; padding-bottom: 0; color: #555;">Awards</h2>
+</div>
+
+<ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
+  <li style="margin-bottom: 10px;">
+  <li style="margin-bottom: 10px;">
+    <strong>[2020]</strong> First Prize of Natural Science Award, Ministry of Education of China (Rank: 3/5).
+  </li>
+    <strong>[2020 - 2025]</strong> Elsevier Highly Cited Chinese Researcher for 6 consecutive years.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2020 - 2025]</strong> Stanford University Top 2% Scientists for 6 consecutive years.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2024]</strong> Wu Wenjun Artificial Intelligence Excellent Youth Award.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2025]</strong> "AI 100 Youth Pioneer".
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2025]</strong> BAAI Scholar.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2024]</strong> Beijing Nova Program.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[2022]</strong> World Internet Leading Scientific and Technological Achievement (Rank: 3/6).
+  </li>
+  
+</ul>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
@@ -208,5 +240,8 @@ redirect_from:
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Alumni</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
       <li>Yujia Qin (with Zhiyuan Liu), 2019-2024, ByteDance Seed</li>
+      <li>Xin Cong (with Zhiyuan Liu), 2023-2025, Assistant Professor (Tenure Track), Tsinghua University</li>
+      <li>Zhong Zhang (with Zhiyuan Liu), 2024-2026, Assistant Professor, University of Electronic Science and Technology of China</li>
+      <li>Haotian Chen (with Zhiyuan Liu), 2025-2026, Assistant Researcher, Shanghai Jiaotong University</li>
     </ul>
-  </div>
+</div>
