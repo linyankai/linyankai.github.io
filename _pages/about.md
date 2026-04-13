@@ -102,15 +102,15 @@ redirect_from:
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/9491" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Learning Entity and Relation Embeddings for Knowledge Graph Completion</a><br>
     <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu<br>
     The 29th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015<br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 5,322</span>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 5,322; </span>
     <span style="color: #0c5c14; font-weight: bold;">Ranked 1st in Paper Digest Most Influential AAAI 2015 Papers</span>
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://aclanthology.org/P16-1200/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Neural Relation Extraction with Selective Attention over Instances</a><br>
     <strong>Yankai Lin</strong>, Shiqi Shen, Zhiyuan Liu, Maosong Sun<br>
     The 54th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2016<br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316</span>
-    <span style="color: #0c5c14; font-weight: bold;">Paper Digest Most Influential ICLR 2024 Paper</span>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316; </span>
+    <span style="color: #0c5c14; font-weight: bold;">Paper Digest Most Influential ACL 2016 Paper</span>
 
     
   </li>
@@ -177,7 +177,7 @@ redirect_from:
     <strong>[2024]</strong> Wu Wenjun Artificial Intelligence Excellent Youth Award.
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>[2025]</strong> "AI 100 Youth Pioneer".
+    <strong>[2025]</strong> "AI 100 Youth Pioneer (By MIT Technology Review, China)".
   </li>
   <li style="margin-bottom: 10px;">
     <strong>[2025]</strong> BAAI Scholar.
