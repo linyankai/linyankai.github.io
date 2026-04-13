@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /#publications 
 
-  - title: "CV"
-    url: /#cv 
-
   - title: "Awards"
     url: /#awards 
-    
+
   - title: "Group"
     url: /#group
+
+  - title: "CV"
+    url: /#cv 
