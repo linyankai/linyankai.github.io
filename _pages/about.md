@@ -16,6 +16,35 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
+  <h1 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">News</h1>
+</div>
+
+<ul style="list-style-type: square; padding-left: 20px; color: #333; line-height: 1.6;">
+  <li style="margin-bottom: 10px;">
+    <strong>[04/2026]</strong> Six papers (4 Main and 2 Findings) are accepted to ACL 2026.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[01/2026]</strong> We release AgentCPM-Explore and AgentCPM-Report. [repo](https://github.com/OpenBMB/AgentCPM)
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[01/2026]</strong> Two papers are accepted to ICLR 2026.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[01/2026]</strong> One papers are accepted to WWW 2026.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[09/2025]</strong> Four papers are accepted to NeurIPS 2025.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[08/2025]</strong> One papers are accepted to EMNLP 2025.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <strong>[05/2025]</strong> We release AgentCPM-GUI. (https://github.com/OpenBMB/AgentCPM-GUI)
+  </li>
+</ul>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
   <h1 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">Publications</h1>
 </div>
 <h3>LLM-based Agents</h3>
@@ -44,7 +73,7 @@ redirect_from:
   </li>
 </ul>
 
-<h3>Reasoning of LLMs</h3>
+<h3>Large Language Models</h3>
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 15px;">
     <a href="https://aclanthology.org/D19-1251/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">NumNet: Machine Reading Comprehension with Numerical Reasoning</a><br>
@@ -61,9 +90,13 @@ redirect_from:
     <a href="https://openreview.net/pdf?id=HxKSzulSD1" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Super (ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization</a><br>
     Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, <strong>Yankai Lin</strong>, Ji-Rong Wen
   </li>
+  <li style="margin-bottom: 15px;">
+    <a href="https://aclanthology.org/2024.emnlp-main.85/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Controllable Preference Optimization: Toward Controllable Multi-objective Alignment</a><br>
+    Yiju Guo, Ganqu Cui, Lifan Yuan, Ning Ding, Zexu Sun, Bowen Sun, Huimin Chen, Ruobing Xie, Jie Zhou, <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun
+  </li>
 </ul>
 
-<h3>Knowledge-guided NLP</h3>
+<h3>Previously, I worked on Knowledge-guided NLP</h3>
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 15px;">
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/9491" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Learning Entity and Relation Embeddings for Knowledge Graph Completion</a><br>
@@ -136,6 +169,7 @@ redirect_from:
   <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+      <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
       <li>Wentong Chen</li>
       <li>Yiju Guo</li>
       <li>Wenkai Yang</li>
@@ -166,5 +200,13 @@ redirect_from:
       <li>Xuyan Ye</li>
     </ul>
   </div>
+  
 
 </div>
+
+<div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Alumni</h3>
+    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+      <li>Yujia Qin (with Zhiyuan Liu), 2019-2024, ByteDance Seed</li>
+    </ul>
+  </div>
