@@ -24,7 +24,7 @@ redirect_from:
     <strong>[04/2026]</strong> Six papers (4 Main and 2 Findings) are accepted to ACL 2026.
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>[01/2026]</strong> We release AgentCPM-Explore and AgentCPM-Report. [repo](https://github.com/OpenBMB/AgentCPM)
+    <strong>[01/2026]</strong> We release AgentCPM-Explore and AgentCPM-Report.  <a href="https://github.com/OpenBMB/AgentCPM" target="_blank" style="color: #377d98; text-decoration: none; font-weight: bold;">[repo]</a>
   </li>
   <li style="margin-bottom: 10px;">
     <strong>[01/2026]</strong> Two papers are accepted to ICLR 2026.
@@ -39,7 +39,7 @@ redirect_from:
     <strong>[08/2025]</strong> One papers are accepted to EMNLP 2025.
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>[05/2025]</strong> We release AgentCPM-GUI. (https://github.com/OpenBMB/AgentCPM-GUI)
+    <strong>[05/2025]</strong> We release AgentCPM-GUI. <a href="https://github.com/OpenBMB/AgentCPM-GUI" target="_blank" style="color: #377d98; text-decoration: none; font-weight: bold;">[repo]</a>
   </li>
 </ul>
 

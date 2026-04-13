@@ -15,14 +15,20 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <style>
-  /* 让导航栏链接容器占满剩余宽度 */
-  .greedy-nav .visible-links {
-    width: 100%;
+  /* 确保导航条作为定位参照物 */
+  .greedy-nav {
+    position: relative; 
   }
-
-  /* 将导航栏的最后一个元素（即齿轮图标）推到最右侧 */
-  .greedy-nav .visible-links li:last-child {
-    margin-left: auto;
+  
+  /* 精准选中第 5 个元素（齿轮），将其绝对定位到最右侧 */
+  .greedy-nav .visible-links li:nth-child(5) {
+    position: absolute;
+    right: 1.5rem; /* 你可以通过调整这里的数值来微调靠右的距离 */
+  }
+  
+  /* 给左侧的文字链接预留一点右边距，防止屏幕缩小时文字和齿轮重叠 */
+  .greedy-nav .visible-links {
+    padding-right: 3rem;
   }
 </style>
 
