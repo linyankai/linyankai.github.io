@@ -10,9 +10,10 @@
 main:
   - title: "Publications"
     url: /#publications
-
-  - title: "Teaching"
-    url: teaching/    
+  
         
   - title: "CV"
     url: /#cv
+
+  - title: "Group"
+    url: /#Group

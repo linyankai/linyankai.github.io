@@ -87,7 +87,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
-  <h1 id="CV" style="margin: 0; border-bottom: none; padding-bottom: 0;">CV</h2>
+  <h1 id="CV" style="margin: 0; border-bottom: none; padding-bottom: 0;">CV</h1>
 </div>
 
 
@@ -153,7 +153,7 @@ redirect_from:
   </div>
 
   <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Undergraduate</h3>
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Undergraduates</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
       <li>Jingwen Chen</li>
       <li>Mingye Li</li>
