@@ -12,48 +12,6 @@ redirect_from:
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
   <h2 id="publications" style="margin: 0; border-bottom: none; padding-bottom: 0;">Publications</h2>
 </div>
-
-<h3>Knowledge-guided NLP</h3>
-<ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Learning Entity and Relation Embeddings for Knowledge Graph Completion</span><br>
-    <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu<br>
-    The 29th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015 <span style="color: #7ab3a4;"></span><br>
-    <span style="color: #a02020; font-weight: bold;">Long Paper, Google Scholar Citations: 5,322, Ranked 1st in Paper Digest Most Influential AAAI 2015 Papers</span>
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Neural Relation Extraction with Selective Attention over Instances</span><br>
-    <strong>Yankai Lin</strong>, Shiqi Shen, Zhiyuan Liu, Maosong Sun<br>
-    The 54th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2016 <span style="color: #7ab3a4;"></span><br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316, Selected as a Paper Digest Most Influential ACL 2016 Paper</span>
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Modeling Relation Paths for Representation Learning of Knowledge Bases</span><br>
-    <strong>Yankai Lin</strong>, Zhiyuan Liu, Huanbo Luan, Maosong Sun, Siwei Rao, Song Liu<br>
-    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2015 <span style="color: #7ab3a4;"></span><br>
-    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 864</span>
-  </li>
-</ul>
-
-<h3>Reasoning of LLMs</h3>
-<ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">NumNet: Machine Reading Comprehension with Numerical Reasoning</span><br>
-    Qiu Ran*, <strong>Yankai Lin*</strong>, Peng Li, Jie Zhou<br>
-    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2019 <span style="color: #7ab3a4;"></span><br>
-    <span style="color: #a02020; font-weight: bold;">Cited by OpenAI's GPT-3</span>
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning</span><br>
-    Wenkai Yang, Shuming Ma, <strong>Yankai Lin</strong>, Furu Wei<br>
-    The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 <span style="color: #7ab3a4;"></span>
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Super (ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization</span><br>
-    Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, <strong>Yankai Lin</strong>, Ji-Rong Wen <span style="color: #7ab3a4;">[Paper]</span>
-  </li>
-</ul>
-
 <h3>LLM-based Agents</h3>
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 15px;">
@@ -77,6 +35,47 @@ redirect_from:
     Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, <strong>Yankai Lin</strong>, et al.<br>
     Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (<strong>EMNLP</strong>), 2025 <span style="color: #7ab3a4;"></span>
   </li>
+
+<h3>Reasoning of LLMs</h3>
+<ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">NumNet: Machine Reading Comprehension with Numerical Reasoning</span><br>
+    Qiu Ran*, <strong>Yankai Lin*</strong>, Peng Li, Jie Zhou<br>
+    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2019 <span style="color: #7ab3a4;"></span><br>
+    <span style="color: #a02020; font-weight: bold;">Cited by OpenAI's GPT-3</span>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning</span><br>
+    Wenkai Yang, Shuming Ma, <strong>Yankai Lin</strong>, Furu Wei<br>
+    The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 <span style="color: #7ab3a4;"></span>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Super (ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization</span><br>
+    Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, <strong>Yankai Lin</strong>, Ji-Rong Wen <span style="color: #7ab3a4;">[Paper]</span>
+  </li>
+</ul>
+<h3>Knowledge-guided NLP</h3>
+<ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Learning Entity and Relation Embeddings for Knowledge Graph Completion</span><br>
+    <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu<br>
+    The 29th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015 <span style="color: #7ab3a4;"></span><br>
+    <span style="color: #a02020; font-weight: bold;">Long Paper, Google Scholar Citations: 5,322, Ranked 1st in Paper Digest Most Influential AAAI 2015 Papers</span>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Neural Relation Extraction with Selective Attention over Instances</span><br>
+    <strong>Yankai Lin</strong>, Shiqi Shen, Zhiyuan Liu, Maosong Sun<br>
+    The 54th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2016 <span style="color: #7ab3a4;"></span><br>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 1,316, Selected as a Paper Digest Most Influential ACL 2016 Paper</span>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <span style="color: #377d98; font-weight: bold; font-size: 1.1em;">Modeling Relation Paths for Representation Learning of Knowledge Bases</span><br>
+    <strong>Yankai Lin</strong>, Zhiyuan Liu, Huanbo Luan, Maosong Sun, Siwei Rao, Song Liu<br>
+    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2015 <span style="color: #7ab3a4;"></span><br>
+    <span style="color: #a02020; font-weight: bold;">Google Scholar Citations: 864</span>
+  </li>
+</ul>
+
 </ul>
 
 
