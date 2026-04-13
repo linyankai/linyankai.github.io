@@ -92,11 +92,13 @@ redirect_from:
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://openreview.net/pdf?id=HxKSzulSD1" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Super (ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization</a><br>
-    Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, <strong>Yankai Lin</strong>, Ji-Rong Wen
+    Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, <strong>Yankai Lin</strong>, Ji-Rong Wen <br>
+    The 12th International Conference on Learning Representations (<strong>ICLR</strong>), 2025<br>
   </li>
   <li style="margin-bottom: 15px;">
     <a href="https://aclanthology.org/2024.emnlp-main.85/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Controllable Preference Optimization: Toward Controllable Multi-objective Alignment</a><br>
-    Yiju Guo, Ganqu Cui, Lifan Yuan, Ning Ding, Zexu Sun, Bowen Sun, Huimin Chen, Ruobing Xie, Jie Zhou, <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun
+    Yiju Guo, Ganqu Cui, Lifan Yuan, Ning Ding, Zexu Sun, Bowen Sun, Huimin Chen, Ruobing Xie, Jie Zhou, <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun <br>
+    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2024<br>
   </li>
 </ul>
 
