@@ -165,9 +165,9 @@ redirect_from:
 
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 10px;">
-  <li style="margin-bottom: 10px;">
     <strong>[2020]</strong> First Prize of Natural Science Award, Ministry of Education of China (Rank: 3/5).
   </li>
+  <li style="margin-bottom: 10px;">
     <strong>[2020 - 2025]</strong> Elsevier Highly Cited Chinese Researcher for 6 consecutive years.
   </li>
   <li style="margin-bottom: 10px;">
