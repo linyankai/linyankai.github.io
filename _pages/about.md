@@ -71,7 +71,7 @@ redirect_from:
     ACM Computing Surveys
   </li>
   <li style="margin-bottom: 15px;">
-    <a href="https://aclanthology.org/2025.emnlp-demos.12/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Agentcpm-GUI: Building Mobile-use Agents with Reinforcement Fine-tuning</a><br>
+    <a href="https://aclanthology.org/2025.emnlp-demos.12/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">AgentCPM-GUI: Building Mobile-use Agents with Reinforcement Fine-tuning</a><br>
     Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, <strong>Yankai Lin</strong>, et al.<br>
     Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (<strong>EMNLP</strong>), 2025
   </li>
