@@ -122,7 +122,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
-  <h1 id="Group" style="margin: 0; border-bottom: none; padding-bottom: 0;">Group</h2>
+  <h1 id="Group" style="margin: 0; border-bottom: none; padding-bottom: 0;">Group</h1>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
