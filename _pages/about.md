@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 隐藏正文中的主标题，但不影响浏览器标签页标题 */
+  #page-title, .page__title {
+    display: none !important;
+  }
+</style>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
