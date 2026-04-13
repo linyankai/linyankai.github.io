@@ -9,10 +9,13 @@
 
 main:
   - title: "Publications"
-    url: /#publications    
+    url: /#publications 
+
   - title: "CV"
-    url: /#cv
+    url: /#cv 
+
   - title: "Awards"
-    url: /#awards
+    url: /#awards 
+    
   - title: "Group"
     url: /#group

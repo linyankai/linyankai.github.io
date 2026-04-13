@@ -159,8 +159,8 @@ redirect_from:
 </ul>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <i class="fas fa-trophy" style="color: #7a5ba6; font-size: 1.5em; margin-right: 12px;"></i>
-  <h2 id="awards" style="margin: 0; border-bottom: none; padding-bottom: 0; color: #555;">Awards</h2>
+  <span style="display: inline-block; width: 6px; height: 32px; background: linear-gradient(to bottom, #b41b1b, #b41b1b); border-radius: 4px; margin-right: 12px;"></span>
+  <h1 id="awards" style="margin: 0; border-bottom: none; padding-bottom: 0;">Awards</h1>
 </div>
 
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
