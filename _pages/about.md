@@ -80,12 +80,6 @@ redirect_from:
 <h3>Large Language Models</h3>
 <ul style="list-style-type: disc; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 15px;">
-    <a href="https://aclanthology.org/D19-1251/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">NumNet: Machine Reading Comprehension with Numerical Reasoning</a><br>
-    Qiu Ran*, <strong>Yankai Lin*</strong>, Peng Li, Jie Zhou<br>
-    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2019<br>
-    <span style="color: #a02020; font-weight: bold;">Cited by OpenAI's GPT-3</span>
-  </li>
-  <li style="margin-bottom: 15px;">
     <a href="https://openreview.net/pdf?id=6ICFqmixlS" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning</a><br>
     Wenkai Yang, Shuming Ma, <strong>Yankai Lin</strong>, Furu Wei<br>
     The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025
@@ -99,6 +93,12 @@ redirect_from:
     <a href="https://aclanthology.org/2024.emnlp-main.85/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">Controllable Preference Optimization: Toward Controllable Multi-objective Alignment</a><br>
     Yiju Guo, Ganqu Cui, Lifan Yuan, Ning Ding, Zexu Sun, Bowen Sun, Huimin Chen, Ruobing Xie, Jie Zhou, <strong>Yankai Lin</strong>, Zhiyuan Liu, Maosong Sun <br>
     The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2024<br>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <a href="https://aclanthology.org/D19-1251/" target="_blank" style="color: #377d98; font-weight: bold; font-size: 1.1em; text-decoration: none;">NumNet: Machine Reading Comprehension with Numerical Reasoning</a><br>
+    Qiu Ran*, <strong>Yankai Lin*</strong>, Peng Li, Jie Zhou<br>
+    The Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2019<br>
+    <span style="color: #a02020; font-weight: bold;">Cited by OpenAI's GPT-3</span>
   </li>
 </ul>
 
