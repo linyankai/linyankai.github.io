@@ -148,7 +148,7 @@ redirect_from:
     <strong>[2024]</strong> Wu Wenjun Artificial Intelligence Excellent Youth Award.
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>[2025]</strong> "AI 100 Youth Pioneer (By MIT Technology Review, China)".
+    <strong>[2025]</strong> AI 100 Youth Pioneer (By MIT Technology Review, China)".
   </li>
   <li style="margin-bottom: 10px;">
     <strong>[2025]</strong> BAAI Scholar.
