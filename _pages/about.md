@@ -175,7 +175,7 @@ redirect_from:
       <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
       <li>Wentong Chen</li>
       <li>Yiju Guo</li>
-      <li>Wenkai Yang</li>
+      <li href="https://keven980716.github.io/" target="_blank">Wenkai Yang</li>
       <li>Zhiyuan Chen</li>
       <li>Shengda Fan</li>
       <li>Yupeng Huo</li>
