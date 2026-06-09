@@ -27,6 +27,9 @@ redirect_from:
     <strong>[01/2026]</strong> We release AgentCPM-Explore and AgentCPM-Report.  <a href="https://github.com/OpenBMB/AgentCPM" target="_blank" style="color: #377d98; text-decoration: none; font-weight: bold;">[repo]</a>
   </li>
   <li style="margin-bottom: 10px;">
+    <strong>[05/2026]</strong> Two papers are accepted to KDD 2026.
+  </li>
+  <li style="margin-bottom: 10px;">
     <strong>[01/2026]</strong> Two papers are accepted to ICLR 2026.
   </li>
   <li style="margin-bottom: 10px;">
