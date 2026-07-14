@@ -21,6 +21,11 @@ redirect_from:
 
 <ul style="list-style-type: square; padding-left: 20px; color: #333; line-height: 1.6;">
   <li style="margin-bottom: 10px;">
+    <strong>[07/2026]</strong> <a href="https://github.com/OpenBMB/AgentCPM" target="_blank" style="color: #b41b1b; text-decoration: none; font-weight: bold;">ACL 2026 Outstanding Paper Award:"CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement"</a>
+    
+     
+  </li>
+  <li style="margin-bottom: 10px;">
     <strong>[05/2026]</strong> Two papers are accepted to KDD 2026.
   </li>
   <li style="margin-bottom: 10px;">
@@ -29,7 +34,6 @@ redirect_from:
   <li style="margin-bottom: 10px;">
     <strong>[01/2026]</strong> We release AgentCPM-Explore and AgentCPM-Report.  <a href="https://github.com/OpenBMB/AgentCPM" target="_blank" style="color: #377d98; text-decoration: none; font-weight: bold;">[repo]</a>
   </li>
-
   <li style="margin-bottom: 10px;">
     <strong>[01/2026]</strong> Two papers are accepted to ICLR 2026.
   </li>
@@ -41,9 +45,6 @@ redirect_from:
   </li>
   <li style="margin-bottom: 10px;">
     <strong>[08/2025]</strong> One papers are accepted to EMNLP 2025.
-  </li>
-  <li style="margin-bottom: 10px;">
-    <strong>[05/2025]</strong> We release AgentCPM-GUI. <a href="https://github.com/OpenBMB/AgentCPM-GUI" target="_blank" style="color: #377d98; text-decoration: none; font-weight: bold;">[repo]</a>
   </li>
 </ul>
 
