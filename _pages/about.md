@@ -172,76 +172,64 @@ redirect_from:
   <h1 id="group" style="margin: 0; border-bottom: none; padding-bottom: 0;">Group</h1>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; min-width: 300px; margin-right: 20px; margin-bottom: 20px;">
-    
-    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
-    <!-- <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-      <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
-      <li>Yiju Guo</li>
-      <li href="https://keven980716.github.io/" target="_blank">Wenkai Yang,  CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program), CAST Young Scientific Talent Cultivation Program for PhD Students</li>
-      <li>Zhiyuan Chen</li>
-      <li>Shengda Fan</li>
-      <li>Yupeng Huo</li>
-      <li>Guirong Chen</li>
-      <li>Songhao Wu, Tencent Rhino-Bird Elite Training Program</li>
-      <li>Shenzhi Yang</li>
-      <li>Shuqi Ye</li>
-      <li>Jingwen Chen</li>
-      <li>Mingye Li</li>
-    </ul> -->
-    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-  <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
-  <li>Yiju Guo</li>
-  <li>
-    <a href="https://keven980716.github.io/" target="_blank" style="color: #337ab7; text-decoration: none;">Wenkai Yang</a>
-    <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
-      ✦ CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program)<br>
-      ✦ CAST Young Scientific Talent Cultivation Program for PhD Students
-    </span>
-  </li>
-  <li>Zhiyuan Chen</li>
-  <li>Shengda Fan</li>
-  <li>Yupeng Huo</li>
-  <li>Guirong Chen</li>
-  <li>
-    Songhao Wu
-    <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
-      ✦ Tencent Rhino-Bird Elite Training Program
-    </span>
-  </li>
-  <li>Shenzhi Yang</li>
-  <li>Shuqi Ye</li>
-  <li>Jingwen Chen</li>
-  <li>Mingye Li</li>
-</ul>
-  </div>
+<!-- Ph.D Students: 采用双列布局充分利用页面宽度，避免单列过长 -->
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
+  <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px; column-count: 2; column-gap: 40px;">
+    <li style="break-inside: avoid; margin-bottom: 8px;">Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Yiju Guo</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">
+      <a href="https://keven980716.github.io/" target="_blank" style="color: #337ab7; text-decoration: none;">Wenkai Yang</a>
+      <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
+        ✦ CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program)<br>
+        ✦ CAST Young Scientific Talent Cultivation Program for PhD Students
+      </span>
+    </li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Zhiyuan Chen</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Shengda Fan</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Yupeng Huo</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Guirong Chen</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">
+      Songhao Wu
+      <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
+        ✦ Tencent Rhino-Bird Elite Training Program
+      </span>
+    </li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Shenzhi Yang</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Shuqi Ye</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Jingwen Chen</li>
+    <li style="break-inside: avoid; margin-bottom: 8px;">Mingye Li</li>
+  </ul>
+</div>
 
-  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+<!-- Master & Undergraduates: 人数较少，并排显示填补充裕的横向空间 -->
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 30px;">
+  <div style="flex: 1; min-width: 250px;">
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Master Students</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-      <li>Kaiyi Zhang</li>
-      <li>Juntian Zhang</li>
+      <li style="margin-bottom: 8px;">Kaiyi Zhang</li>
+      <li style="margin-bottom: 8px;">Juntian Zhang</li>
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px;">
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Undergraduates</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-      <li>Xuyan Ye</li>
+      <li style="margin-bottom: 8px;">Xuyan Ye</li>
     </ul>
   </div>
 </div>
 
-<div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
-    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Alumni</h3>
-    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-      <li>Yujia Qin (with Zhiyuan Liu), 2019-2024, ByteDance Seed</li>
-      <li>Xin Cong (with Zhiyuan Liu), 2023-2025, Assistant Professor (Tenure Track), Tsinghua University</li>
-      <li>Zhong Zhang (with Zhiyuan Liu), 2024-2026, Assistant Professor, University of Electronic Science and Technology of China</li>
-      <li>Haotian Chen (with Zhiyuan Liu), 2025-2026, Assistant Researcher, Shanghai Jiaotong University</li>
-      <li>Wentong Chen, 2022-2026, ByteDance</li>
-    </ul>
+<!-- Alumni: 作为已毕业群体，单独占一整行放在最后 -->
+<div style="margin-bottom: 40px;">
+  <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Alumni</h3>
+  <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+    <li style="margin-bottom: 8px;">Yujia Qin (with Zhiyuan Liu), 2019-2024, ByteDance Seed</li>
+    <li style="margin-bottom: 8px;">Xin Cong (with Zhiyuan Liu), 2023-2025, Assistant Professor (Tenure Track), Tsinghua University</li>
+    <li style="margin-bottom: 8px;">Zhong Zhang (with Zhiyuan Liu), 2024-2026, Assistant Professor, University of Electronic Science and Technology of China</li>
+    <li style="margin-bottom: 8px;">Haotian Chen (with Zhiyuan Liu), 2025-2026, Assistant Researcher, Shanghai Jiaotong University</li>
+    <li style="margin-bottom: 8px;">Wentong Chen, 2022-2026, ByteDance</li>
+  </ul>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
