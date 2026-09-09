@@ -174,10 +174,6 @@ redirect_from:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
-    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Graguates</h3>
-      <li>Wentong Chen -> ByteDance</li>
-  </div>
-  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
     
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
     <!-- <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
@@ -235,8 +231,6 @@ redirect_from:
       <li>Xuyan Ye</li>
     </ul>
   </div>
-  
-
 </div>
 
 <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
@@ -246,6 +240,7 @@ redirect_from:
       <li>Xin Cong (with Zhiyuan Liu), 2023-2025, Assistant Professor (Tenure Track), Tsinghua University</li>
       <li>Zhong Zhang (with Zhiyuan Liu), 2024-2026, Assistant Professor, University of Electronic Science and Technology of China</li>
       <li>Haotian Chen (with Zhiyuan Liu), 2025-2026, Assistant Researcher, Shanghai Jiaotong University</li>
+      <li>Wentong Chen, 2022-2026, ByteDance</li>
     </ul>
 </div>
 
