@@ -173,12 +173,14 @@ redirect_from:
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  
   <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Graguates</h3>
       <li>Wentong Chen -> ByteDance</li>
+  </div>
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+    
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
-    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+    <!-- <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
       <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
       <li>Yiju Guo</li>
       <li href="https://keven980716.github.io/" target="_blank">Wenkai Yang,  CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program), CAST Young Scientific Talent Cultivation Program for PhD Students</li>
@@ -191,7 +193,32 @@ redirect_from:
       <li>Shuqi Ye</li>
       <li>Jingwen Chen</li>
       <li>Mingye Li</li>
-    </ul>
+    </ul> -->
+    <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
+  <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
+  <li>Yiju Guo</li>
+  <li>
+    <a href="https://keven980716.github.io/" target="_blank" style="color: #337ab7; text-decoration: none;">Wenkai Yang</a>
+    <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
+      ✦ CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program)<br>
+      ✦ CAST Young Scientific Talent Cultivation Program for PhD Students
+    </span>
+  </li>
+  <li>Zhiyuan Chen</li>
+  <li>Shengda Fan</li>
+  <li>Yupeng Huo</li>
+  <li>Guirong Chen</li>
+  <li>
+    Songhao Wu
+    <span style="display: block; font-size: 0.85em; color: #888; margin-top: 2px;">
+      ✦ Tencent Rhino-Bird Elite Training Program
+    </span>
+  </li>
+  <li>Shenzhi Yang</li>
+  <li>Shuqi Ye</li>
+  <li>Jingwen Chen</li>
+  <li>Mingye Li</li>
+</ul>
   </div>
 
   <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
