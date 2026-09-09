@@ -175,20 +175,22 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   
   <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+    <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Graguates</h3>
+      <li>Wentong Chen -> ByteDance</li>
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
       <li>Yaxi Lu (with Zhiyuan Liu and Fangming Liu)</li>
-      <li>Wentong Chen</li>
       <li>Yiju Guo</li>
-      <li href="https://keven980716.github.io/" target="_blank">Wenkai Yang</li>
+      <li href="https://keven980716.github.io/" target="_blank">Wenkai Yang,  CIE–Tencent Ph.D. Research Incentive Program (Hunyuan Large Model Special Program), CAST Young Scientific Talent Cultivation Program for PhD Students</li>
       <li>Zhiyuan Chen</li>
       <li>Shengda Fan</li>
       <li>Yupeng Huo</li>
       <li>Guirong Chen</li>
-      <li>Shengda Fan</li>
-      <li>Songhao Wu</li>
+      <li>Songhao Wu, Tencent Rhino-Bird Elite Training Program</li>
       <li>Shenzhi Yang</li>
       <li>Shuqi Ye</li>
+      <li>Jingwen Chen</li>
+      <li>Mingye Li</li>
     </ul>
   </div>
 
@@ -203,8 +205,6 @@ redirect_from:
   <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Undergraduates</h3>
     <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
-      <li>Jingwen Chen</li>
-      <li>Mingye Li</li>
       <li>Xuyan Ye</li>
     </ul>
   </div>
