@@ -173,7 +173,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px; margin-right: 20px; margin-bottom: 20px;">
     
     <h3 style="color: #377d98; border-bottom: none; margin-top: 0;">Ph.D Students</h3>
     <!-- <ul style="color: #555; list-style-type: disc; padding-left: 20px; line-height: 1.6; margin-top: 10px;">
